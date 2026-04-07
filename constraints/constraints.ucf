@@ -1,0 +1,13 @@
+NET seg[0] LOC="M12";
+NET seg[1] LOC="L13";
+NET seg[2] LOC="P12";
+NET seg[3] LOC="N11";
+NET seg[4] LOC="N14";
+NET seg[5] LOC="H12";
+NET seg[6] LOC="L14";
+NET Clk LOC="B8";
+NET Clr LOC="G12";
+NET digit_en[0] LOC="F12";
+NET digit_en[1] LOC="J12";
+NET digit_en[2] LOC="M13";
+NET digit_en[3] LOC="K14";
