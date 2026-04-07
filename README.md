@@ -2,14 +2,11 @@
 
 A VHDL implementation of a time-multiplexed 4-digit seven-segment display that counts from **0000 to 9999** on a **Digilent Basys 2 (Spartan-3)** FPGA board.
 
-> 📌 Mini Project — Digital Logic System Design and Practices (UEE2504)  
-> SSN College of Engineering, Department of Electrical & Electronics Engineering
-
 ---
 
 ## 📸 Hardware Demo
 
-![Basys2 running the counter showing 0392](assets/hardware_result.jpg)
+![Basys2 running the counter](hardware_result.jpg)
 
 *The display showing live count on the Basys 2 FPGA board*
 
@@ -170,4 +167,3 @@ To simulate:
 | Gayathri M | 3122233001029 |
 | Gowri Shankar Narayanan | 3122233001034 |
 
-> SSN College of Engineering — EEE Dept. | UEE2504
