@@ -6,7 +6,7 @@ A VHDL implementation of a time-multiplexed 4-digit seven-segment display that c
 
 ## 📸 Hardware Demo
 
-![Basys2 running the counter](hardware_result.jpg)
+![Basys2 running the counter](hardware.jpeg)
 
 *The display showing live count on the Basys 2 FPGA board*
 
